@@ -1,0 +1,8 @@
+baseURL = "https://photo-site.pages.dev/"
+languageCode = "zh-cn"
+title = "Cai · 摄影"
+theme = "gallery"
+
+[params]
+  defaultTheme = "dark"
+
