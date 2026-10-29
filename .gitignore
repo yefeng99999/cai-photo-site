@@ -1,0 +1,19 @@
+# Hugo 构建产物
+/public/
+/resources/_gen/
+.hugo_build.lock
+hugo_stats.json
+
+# Mac 垃圾
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes
+
+# 编辑器
+.vscode/
+.idea/
+
+# 别忽略源码！
+# content/  themes/  hugo.toml  都不写进来
+
