@@ -1,4 +1,4 @@
-baseURL = "https://photo-site.pages.dev/"
+baseURL = "https://cai-photo-site.pages.dev/"
 languageCode = "zh-cn"
 title = "Cai · 摄影"
 theme = "gallery"
